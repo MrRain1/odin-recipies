@@ -1,0 +1,29 @@
+*{
+    font-family: "Helvetica", sans-serif;
+}
+
+.title{
+    font-size: 48px;
+    font-weight: bold;
+    color: rgb(58, 71, 75);
+    background-color: rgb(233, 208, 180);
+    text-align: center;
+}
+.text,.list{
+    font-size: 22px;
+}
+
+.item{
+    font-size: 18px;
+}
+
+.p_head{
+    font-size: 22px;
+    color: rgb(58, 71, 75);
+    background-color: rgb(233, 208, 180);
+}
+
+.image{
+    width: 520px;
+    height: auto;
+}
